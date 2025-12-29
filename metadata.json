@@ -1,0 +1,5 @@
+{
+  "name": "MyNote",
+  "description": "A professional and lightweight note-taking app with real-time sync simulation, organization tags, and a modern Material Design interface.",
+  "requestFramePermissions": []
+}
