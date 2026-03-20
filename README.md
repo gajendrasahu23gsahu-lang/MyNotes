@@ -4,7 +4,7 @@
 
 MyNote is a professional note‑taking application built with **React**, **TypeScript**, and **Tailwind CSS**. It offers a rich editing experience with support for text, images, slides, diagrams, tables, and spreadsheets – all with auto‑save, tagging, search, and a clean Material Design interface.
 
-## ✨ Features
+## Features
 
 - **Multiple Note Types** – Text, images, slides, mind maps (diagrams), tables, and spreadsheet‑style sheets.
 - **Auto‑Save** – Changes are saved automatically while you type.
@@ -14,7 +14,7 @@ MyNote is a professional note‑taking application built with **React**, **TypeS
 - **Offline‑First** – All notes are stored locally in your browser (localStorage).
 - **Responsive Design** – Works seamlessly on desktop and mobile devices.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -40,7 +40,7 @@ npm install
    ```
 3. Open http://localhost:3000 to view the app.
 
-📁 Project Structure
+ <h4>Project Structure</h4>
 
 ```
 mynote/
@@ -61,15 +61,15 @@ mynote/
 └── README.md            # This file
 ```
 
-🛠️ Built With
+ <h4>Built With</h4>
 
-· React – UI library
-· TypeScript – Type safety
-· Vite – Fast build tool
-· Tailwind CSS – Utility‑first CSS
-· react‑zoom‑pan‑pinch – Image and diagram zooming
+- React – UI library
+- TypeScript – Type safety
+- Vite – Fast build tool
+- Tailwind CSS – Utility‑first CSS
+- react‑zoom‑pan‑pinch – Image and diagram zooming
 
-📱 Deployment
+<h4>Deployment</h4>
 
 To build the app for production:
 
@@ -79,11 +79,11 @@ npm run build
 
 The output will be in the dist/ folder, ready to be served by any static file server.
 
-🤝 Contributing
+<h4>Contributing</h4>
 
 Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
-📄 License
+<h4>License</h4>
 
 This project is licensed under the MIT License.
 
